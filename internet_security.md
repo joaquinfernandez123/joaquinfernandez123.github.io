@@ -108,3 +108,7 @@
 <p>Malware can penetrate your computer when (deep breath now) you surf through hacked websites, view a legitimate site serving malicious ads, download infected files, install programs or apps from unfamiliar provide, open a malicious email attachment (<a href="https://blog.malwarebytes.com/threats/malspam/" target="blank">malspam</a>), or pretty much everything else you download from the web on to a device that lacks a quality anti-malware security application.</p>
 <p>Malicious apps can hide in seemingly legitimate applications, especially when they are downloaded from websites or direct links (in an email, text, or chat message) instead of an official app store. Here it&rsquo;s important to look at the warning messages when installing applications, especially if they seek permission to access your email or other personal information.&nbsp;</p>
 <div class="callout-quote"></div>
+
+<li><a href="accesibility_standars.html">Accesibility Standars</a></li>
+<li><a href="oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></li>
+<li><a href="digital_signature.html">Digital Signature</a></li>
