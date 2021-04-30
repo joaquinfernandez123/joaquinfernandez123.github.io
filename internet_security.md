@@ -108,6 +108,9 @@
 <p>Malware can penetrate your computer when (deep breath now) you surf through hacked websites, view a legitimate site serving malicious ads, download infected files, install programs or apps from unfamiliar provide, open a malicious email attachment (<a href="https://blog.malwarebytes.com/threats/malspam/" target="blank">malspam</a>), or pretty much everything else you download from the web on to a device that lacks a quality anti-malware security application.</p>
 <p>Malicious apps can hide in seemingly legitimate applications, especially when they are downloaded from websites or direct links (in an email, text, or chat message) instead of an official app store. Here it&rsquo;s important to look at the warning messages when installing applications, especially if they seek permission to access your email or other personal information.&nbsp;</p>
 <div class="callout-quote"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVMsZyTKdvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12794.150064444651!2d-4.4820922924214175!3d36.70964998167405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72f74e3cdaaaab%3A0x7150226ba4fa2867!2sCiberseguridad%20Y%20Sistemas%20Informaticos%20Sl!5e0!3m2!1ses!2ses!4v1619800016967!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <li><a href="accesibility_standars.html">Accesibility Standars</a></li>
 <li><a href="oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></li>
