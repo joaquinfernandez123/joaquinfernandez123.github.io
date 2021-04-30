@@ -92,3 +92,6 @@
 <dt>structured programming</dt>
 <dd>A method of planning programs that avoids the branching category of control structures.</dd>
 </dl>
+<li><a href="accesibility_standars.html">Accesibility Standars</a></li>
+<li><a href="internet_security.html">Internet Security</a></li>
+<li><a href="digital_signature.html">Digital Signature</a></li>
