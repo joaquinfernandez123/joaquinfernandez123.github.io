@@ -1,0 +1,42 @@
+<header class="post-full-header">
+<h1 class="post-full-title">How to explain object-oriented programming concepts to a 6-year-old</h1>
+</header>
+<div class="post-full-author-header"></div>
+<figure class="post-full-image"><img srcset="https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 300w,
+                            https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 600w,
+                            https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 1000w,
+                            https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 2000w" sizes="(max-width: 800px) 400px,
+                            (max-width: 1170px) 700px,
+                            1400px" src="https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg" alt="How to explain object-oriented programming concepts to a 6-year-old" onerror="this.style.display='none'" /></figure>
+<section class="post-full-content">
+<div class="post-content medium-migrated-article">
+<p>by Alexander Petkov</p>
+<p>Have you noticed how the same cliche questions always get asked at job interviews &mdash; over and over again?</p>
+<p>I&rsquo;m sure you know what I mean.</p>
+<p>For example:</p>
+<blockquote>Where do you see yourself in five years?</blockquote>
+<p>or, even worse:</p>
+<blockquote>What do you consider to be your greatest weakness?</blockquote>
+<p>Ugh&hellip;give me a break. I consider answering this question a great weakness! Anyway, not my point.</p>
+<p>As trivial as questions like these may be, they are important because they give clues about you. Your current state of mind, your attitude, your perspective.</p>
+<p>When answering, you should be careful, as you may reveal something you later regret.</p>
+<p>Today I want to talk about a similar type of question in the programming world:</p>
+<blockquote>What are the main principles of Object-Oriented Programming?</blockquote>
+<p>I&rsquo;ve been on both sides of this question. It&rsquo;s one of those topics that gets asked so often that you can&rsquo;t allow yourself to not know.</p>
+<p>Junior and entry-level developers usually have to answer it. Because it&rsquo;s an easy way for the interviewer to tell three things:</p>
+<ol>
+<li><strong>Did the candidate prepare for this interview?</strong><br />Bonus points if you hear an answer immediately &mdash; it shows a serious approach.</li>
+<li><strong>Is the candidate past the tutorial phase?</strong><br />Understanding the principles of Object-Oriented Programming (OOP) shows you&rsquo;ve gone beyond copy and pasting from tutorials &mdash; you already see things from a higher perspective.</li>
+<li><strong>Is the candidate&rsquo;s understanding deep or shallow?</strong><br />The level of competence on this question often equals the level of competence on<span>&nbsp;</span><strong>most other subjects</strong>. Trust me.</li>
+</ol>
+<p>The four principles of object-oriented programming are<span>&nbsp;</span><strong>encapsulation</strong>,<span>&nbsp;</span><strong>abstraction</strong>,<span>&nbsp;</span><strong>inheritance</strong>,<strong><span>&nbsp;</span></strong>and<span>&nbsp;</span><strong>polymorphism</strong>.</p>
+<p>These words may sound scary for a junior developer. And the complex, excessively long explanations in Wikipedia sometimes double the confusion.</p>
+<p>That&rsquo;s why I want to give a simple, short, and clear explanation for each of these concepts. It may sound like something you explain to a child, but I would actually love to hear these answers when I conduct an interview.</p>
+<h3 id="encapsulation">Encapsulation</h3>
+<p>Say we have a program. It has a few logically different objects which communicate with each other &mdash; according to the rules defined in the program.</p>
+<p>Encapsulation is achieved when each object keeps its state<span>&nbsp;</span><strong>private</strong>, inside a class. Other objects don&rsquo;t have direct access to this state. Instead, they can only call a list of public functions &mdash; called methods.</p>
+<p>So, the object manages its own state via methods &mdash; and no other class can touch it unless explicitly allowed. If you want to communicate with the object, you should use the methods provided. But (by default), you can&rsquo;t change the state.</p>
+<p>Let&rsquo;s say we&rsquo;re building a tiny Sims game. There are people and there is a cat. They communicate with each other. We want to apply encapsulation, so we encapsulate all &ldquo;cat&rdquo; logic into a<span>&nbsp;</span><code>Cat</code><em><span>&nbsp;</span></em>class. It may look like this:</p>
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://cdn-media-1.freecodecamp.org/images/M4t8zW9U71xeKSlzT2o8WO47mdzrWkNa4rWv" class="kg-image" alt="" /></figure>
+</div>
+</section>
