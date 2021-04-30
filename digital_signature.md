@@ -28,3 +28,7 @@
 </div>
 </div>
 </section>
+<li><a href="accesibility_standars.html">Accesibility Standars</a></li>
+<li><a href="internet_security.html">Internet Security</a></li>
+<li><a href="oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></li>
+
