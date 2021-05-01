@@ -1,7 +1,4 @@
-<header class="post-full-header">
-<h1 class="post-full-title">How to explain object-oriented programming concepts to a 6-year-old</h1>
-</header>
-<div class="post-full-author-header"></div>
+<h1 style="text-align: center;"><strong>How to explain object-oriented programming concepts to a 6-year-old</strong></h1>
 <figure class="post-full-image"><img srcset="https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 300w,
                             https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 600w,
                             https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg 1000w,
@@ -10,7 +7,6 @@
                             1400px" src="https://cdn-media-1.freecodecamp.org/images/1*EirXoYV7GgRi4frvcW-b0A.jpeg" alt="How to explain object-oriented programming concepts to a 6-year-old" onerror="this.style.display='none'" /></figure>
 <section class="post-full-content">
 <div class="post-content medium-migrated-article">
-<p>by Alexander Petkov</p>
 <p>Have you noticed how the same cliche questions always get asked at job interviews &mdash; over and over again?</p>
 <p>I&rsquo;m sure you know what I mean.</p>
 <p>For example:</p>
