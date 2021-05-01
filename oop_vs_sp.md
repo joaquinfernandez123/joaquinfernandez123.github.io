@@ -35,12 +35,6 @@
 <p>Let&rsquo;s say we&rsquo;re building a tiny Sims game. There are people and there is a cat. They communicate with each other. We want to apply encapsulation, so we encapsulate all &ldquo;cat&rdquo; logic into a<span>&nbsp;</span><code>Cat</code><em><span>&nbsp;</span></em>class. It may look like this:</p>
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://cdn-media-1.freecodecamp.org/images/M4t8zW9U71xeKSlzT2o8WO47mdzrWkNa4rWv" class="kg-image" alt="" /></figure>
 </div>
-</section>
-<header>
-<h1 class="entry-title">Structured Programming</h1>
-<p data-type="author">Kenneth Leroy Busbee and Dave Braunschweig</p>
-</header>
-<h2>Overview</h2>
 <p><strong>Structured programming</strong><span>&nbsp;</span>is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines in contrast to using simple tests and jumps such as the go to statement, which can lead to &ldquo;<strong>spaghetti code</strong>&rdquo; that is potentially difficult to follow and maintain.<a class="footnote" title="Wikipedia: Structured programming" id="return-footnote-196-1" href="https://press.rebus.community/programmingfundamentals/chapter/structured-programming/#footnote-196-1" aria-label="Footnote 1"><sup class="footnote">[1]</sup></a></p>
 <h2>Discussion</h2>
 <p>One of the most important concepts of programming is the ability to control a program so that different lines of code are executed or that some lines of code are executed many times. The mechanisms that allow us to control the flow of execution are called&nbsp;<strong>control structures</strong>. Flowcharting is a method of documenting (charting) the flow (or paths) that a program would execute. There are three main categories of control structures:</p>
