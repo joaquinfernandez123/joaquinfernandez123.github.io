@@ -1,7 +1,4 @@
-<header class="entry-header">
-<h1 class="entry-title">Difference Between Active and Passive Attacks</h1>
-</header>
-<div class="entry-content">
+<h1 style="text-align: center;"><strong>Difference Between Active and Passive Attacks</strong></h1>
 <p><img loading="lazy" class="aligncenter size-full wp-image-3936" src="https://techdifferences.com/wp-content/uploads/2018/02/intro-image.jpg" alt="active attacks vs passive attacks" width="600" height="268" srcset="https://techdifferences.com/wp-content/uploads/2018/02/intro-image.jpg 600w, https://techdifferences.com/wp-content/uploads/2018/02/intro-image-300x134.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
 <p>The major difference between active and passive attacks is that in active attacks the attacker intercepts the connection and modifies the information. Whereas, in a passive attack, the attacker intercepts the transit information with the intention of reading and analyzing the information not for altering it.</p>
 <p>ks and vulnerabilities present to corrupt and breach the system security. Security attacks are the computer attacks that compromise the security of the system. Conceptually, the security attacks can be classified into two types that are active and passive attacks where the attacker gains illegal access to the system&rsquo;s resources.</p>
