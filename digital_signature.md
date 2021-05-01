@@ -1,17 +1,4 @@
-<section class="resource-header se-theme-dark">
-<div class="container mx-auto px-4 relative z-20">
-<div class="row md:flex md:-mx-8">
-<div class="col w-full md:w-2/3">
-<h1 class="h1-heading text-white mt-8">What Are Digital Signatures &amp; How Do They Work</h1>
-</div>
-</div>
-</div>
-</section>
-<section class="resource-content">
-<div class="container mx-auto px-4 relative z-20">
-<div class="row md:flex md:-mx-8">
-<div class="col w-full md:w-2/3 md:pr-16 ">
-<div class="intro-paragraph">
+<h1 style="text-align: center;"><strong>What Are Digital Signatures</strong></h1>
 <p>A digital signature is a PKI-based digital certificate that authenticates the identity of the signer and ensures electronically transmitted documents and digital messages have not been forged or tampered with. Digital signatures are similar to physical signatures in the sense that both are unique to the signer, except that in the case of digitally signed documents, a digital signature offers far more security and the assurance of the document&rsquo;s origin, identity, and integrity. Based on the highest standard of security, digital signatures are legally binding in the United States and many other countries.</p>
 </div>
 <section class="content-block content-text-block">
